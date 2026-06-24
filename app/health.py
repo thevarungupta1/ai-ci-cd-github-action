@@ -1,5 +1,5 @@
 def get_health_status():
     return {
-        "status": "healthy is ok",
+        "status": "healthy",
         "service": "ai-cicd-service",
     }
